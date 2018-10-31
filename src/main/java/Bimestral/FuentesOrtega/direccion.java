@@ -1,8 +1,6 @@
 package Bimestral.FuentesOrtega;
 
-public class ControlaorTarjeta {
-    
-    
+public class direccion {
     
     
     

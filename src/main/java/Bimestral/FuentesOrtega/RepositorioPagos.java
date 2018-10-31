@@ -5,12 +5,10 @@
  */
 package Bimestral.FuentesOrtega;
 
-import org.springframework.data.mongodb.repository.MongoRepository;
-
 /**
  *
- * @author campitos
+ * @author dannf
  */
-public interface RepositorioCliente extends MongoRepository<Cliente, String>{
+class RepositorioPagos {
     
 }
